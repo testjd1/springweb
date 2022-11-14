@@ -19,4 +19,6 @@ public class SampleController {
       m.addAttribute("serverTime",sample);
       return "home";
    }
+   
+
 }
